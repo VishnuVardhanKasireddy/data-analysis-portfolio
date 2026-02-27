@@ -5,6 +5,6 @@ __pycache__/
 
 .vscode/
 
-House-Prices-Dataset/Data/raw/train.csv
-House-Prices-Dataset/Data/raw/test.csv
-House-Prices-Dataset/Data/processed/
+
+House-Prices-Dataset/Data/
+House-Prices-Dataset/Data/
