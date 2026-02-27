@@ -5,5 +5,5 @@ __pycache__/
 
 .vscode/
 
-data/raw/
-data/processed/
+House-Prices-Dataset/data/raw/
+House-Prices-Dataset/data/processed/
