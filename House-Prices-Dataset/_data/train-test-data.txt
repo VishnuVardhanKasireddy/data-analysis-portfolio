@@ -1,0 +1,1 @@
+get data from http://kaggle.com/competitions/house-prices-advanced-regression-techniques/rules
