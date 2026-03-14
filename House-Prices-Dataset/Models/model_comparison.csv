@@ -1,0 +1,5 @@
+Model,RMSE
+Linear Regression,0.13033038416627324
+Ridge Regression,0.12427096010206734
+Lasso Regression,0.178300966521818
+Random Forest,0.14269884330465513
