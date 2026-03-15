@@ -127,7 +127,7 @@ Key analyses performed:
 - Correlation analysis
 - Outlier detection
 
-# Important Visualizations
+### Important Visualizations
 
 - SalePrice distribution
 - Correlation heatmap
@@ -137,7 +137,7 @@ Key analyses performed:
 
 ---
 
-# Key Insights from EDA
+### Key Insights from EDA
 
 Some important findings from exploratory analysis include:
 
@@ -155,7 +155,7 @@ These insights guided the **feature engineering and modeling stages**.
 
 New features were created to capture additional useful information from the dataset.
 
-# Engineered Features
+### Engineered Features
 
 **TotalSF**  
 Total square footage combining basement and floor areas.
@@ -173,7 +173,7 @@ Combined metric including full and half bathrooms.
 Total porch area derived from multiple porch-related features.
 
 These engineered features improved the predictive capability of the models.
-# Feature Importance
+### Feature Importance
 OverallQual
 
 GrLivArea
@@ -195,7 +195,7 @@ Multiple regression models were trained and evaluated:
 - Lasso Regression
 - Random Forest Regressor
 
-# Data Preparation
+### Data Preparation
 
 - Categorical variables encoded using **One-Hot Encoding**
 - Dataset split using **80/20 train-test split**
