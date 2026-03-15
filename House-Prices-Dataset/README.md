@@ -292,13 +292,13 @@ data/raw/
 ### 5. Run notebooks in order
 
 
-01_business_understanding.ipynb
-02_data_audit.ipynb
-03_data_cleaning.ipynb
-04_eda_analysis.ipynb
-05_feature_engineering.ipynb
-06_modeling.ipynb
-07_model_evaluation.ipynb
+- 01_business_understanding.ipynb
+- 02_data_audit.ipynb
+- 03_data_cleaning.ipynb
+- 04_eda_analysis.ipynb
+- 05_feature_engineering.ipynb
+- 06_modeling.ipynb
+- 07_model_evaluation.ipynb
 
 
 
