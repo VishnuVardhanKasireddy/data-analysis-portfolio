@@ -225,6 +225,7 @@ Additional evaluation included:
 ### Model Performance
 
 <img src="visuals/modelPerformance.png" width="600">
+
 ## Model Performance Comparison
 
 The performance of different regression models was evaluated using RMSE and R² score.
