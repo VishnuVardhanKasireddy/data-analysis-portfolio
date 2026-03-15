@@ -220,8 +220,11 @@ Additional evaluation included:
 
 ### SalePrice Distribution
 
-![SalePrice Distribution](C:\Dev\Projects\EDA-Portfolio\House-Prices-Dataset\visuals\salepriceDistribution.png)
-![Model Performance](C:\Dev\Projects\EDA-Portfolio\House-Prices-Dataset\visuals\modelPerformance.png)
+<img src="visuals/salepriceDistribution.png" width="600">
+
+### Model Performance
+
+<img src="visuals/modelPerformance.png" width="600">
 ## Model Performance Comparison
 
 The performance of different regression models was evaluated using RMSE and R² score.
