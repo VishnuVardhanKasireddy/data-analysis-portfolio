@@ -115,7 +115,7 @@ The cleaned dataset was saved for further analysis.
 
 ---
 
-# Exploratory Data Analysis (EDA)
+## 4. Exploratory Data Analysis (EDA)
 
 EDA was conducted to understand the relationship between features and house prices.
 
@@ -127,7 +127,7 @@ Key analyses performed:
 - Correlation analysis
 - Outlier detection
 
-### Important Visualizations
+# Important Visualizations
 
 - SalePrice distribution
 - Correlation heatmap
@@ -151,11 +151,11 @@ These insights guided the **feature engineering and modeling stages**.
 
 ---
 
-# Feature Engineering
+## 5. Feature Engineering
 
 New features were created to capture additional useful information from the dataset.
 
-### Engineered Features
+# Engineered Features
 
 **TotalSF**  
 Total square footage combining basement and floor areas.
@@ -173,7 +173,7 @@ Combined metric including full and half bathrooms.
 Total porch area derived from multiple porch-related features.
 
 These engineered features improved the predictive capability of the models.
-## Feature Importance
+# Feature Importance
 OverallQual
 
 GrLivArea
@@ -186,7 +186,7 @@ Neighborhood
 
 ---
 
-# Machine Learning Models
+## 6. Machine Learning Models
 
 Multiple regression models were trained and evaluated:
 
@@ -195,14 +195,14 @@ Multiple regression models were trained and evaluated:
 - Lasso Regression
 - Random Forest Regressor
 
-### Data Preparation
+# Data Preparation
 
 - Categorical variables encoded using **One-Hot Encoding**
 - Dataset split using **80/20 train-test split**
 
 ---
 
-# Model Evaluation
+## 7. Model Evaluation
 
 Model performance was evaluated using:
 
@@ -226,7 +226,7 @@ Additional evaluation included:
 
 <img src="visuals/modelPerformance.png" width="600">
 
-## Model Performance Comparison
+### Model Performance Comparison
 
 The performance of different regression models was evaluated using RMSE and R² score.
 
@@ -238,7 +238,7 @@ The performance of different regression models was evaluated using RMSE and R² 
 | Random Forest Regressor | 0.14 | 0.89 |
 
 *Note: SalePrice was log-transformed during training, so RMSE values correspond to the log scale.*
-# Final Model
+## Final Model
 
 The **Ridge Regressor** achieved the best performance.
 
