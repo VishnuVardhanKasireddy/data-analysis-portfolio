@@ -57,16 +57,16 @@ The dataset contains information about Titanic passengers, including:
 ## 📈 Exploratory Data Analysis
 
 ### 🔹 Survival Distribution
-![Survival Distribution](visuals/survival_count.png)
+![Survival Distribution](visuals/Survival_Count.png)
 
 ### 🔹 Survival by Class by Gender
-![Survival by Class by Gender](visuals/survival_rate.png)
+![Survival by Class by Gender](visuals/Survival_Rate.png)
 
 ### 🔹 Age Distribution
-![Age Distribution](visuals/age_distribution.png)
+![Age Distribution](visuals/Age_Distribution.png)
 
 ### 🔹 Fare Distribution
-![Fare Distribution](visuals/fare_distribution.png)
+![Fare Distribution](visuals/Fare_Distribution.png)
 
 ---
 
